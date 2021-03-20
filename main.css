@@ -34,7 +34,7 @@ h1{
 }
 
 .todo:hover{
-    background-color: rgba(255, 215, 211, 1);
+    background-color: rgb(91, 204, 129);
 }
 
 .todo .checkbox-container{
